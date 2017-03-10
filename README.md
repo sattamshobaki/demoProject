@@ -1,6 +1,6 @@
 # demoProject
-Simple hotels application to find hotels based on search criteria user put
-like numm of days ,start travel date, hotel star rating
 
-and this project is using rest service to get these results
+kindly extract the zip file and imported in eclipse IDE using tomcat server
+
+for testing the service import rest-hotel.xml into soapUI editor
 
