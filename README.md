@@ -1,0 +1,2 @@
+# demoProject
+Simple hotels application
